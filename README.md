@@ -11,5 +11,6 @@
 <p>Um modulo serial que ser&aacute; acoplado ao visor;</p>
 <p>Fios conforme sua necessidade;</p>
 <h1>&nbsp; &nbsp; &nbsp;<strong>Instala&ccedil;&atilde;o </strong></h1>
-<p>O projeto ser&aacute; montado em uma protoboard e o esquema de instala&ccedil;&atilde;o segue conforme a imagem anexada em imagens.&nbsp;</p>
+<p>O projeto sera montado em uma protoboard e o esquema de instala&ccedil;&atilde;o segue conforme a imagem abaixo:</p>
 <h1>&nbsp;</h1>
+<p><img src="https://nerdking.net.br/wp-content/uploads/2016/10/Untitled-Sketch_bb-2.png" width="624" height="423" /></p>
