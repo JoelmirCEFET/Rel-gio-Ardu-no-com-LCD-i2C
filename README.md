@@ -13,7 +13,7 @@
 <h1>&nbsp; &nbsp; &nbsp;<strong>Instala&ccedil;&atilde;o </strong></h1>
 <p>O projeto sera montado em uma protoboard e o esquema de instala&ccedil;&atilde;o segue conforme a imagem abaixo:</p>
 <h1>&nbsp;</h1>
-<p><img src="https://raw.githubusercontent.com/JoelmirCEFET/Relgio-Arduno-com-LCD-i2C/master/imagens/thumbnail_arduino%2012_LI.jpg" width="644" height="437" /></p>
+<p><img src="https://raw.githubusercontent.com/JoelmirCEFET/Relgio-Arduno-com-LCD-i2C/master/imagens/Untitled-Sketch_bb-2.png" width="637" height="432" /></p>
 <h2><strong>&nbsp; &nbsp; Esquema de liga&ccedil;&atilde;o Ardu&iacute;no RTC LCD i2C</strong></h2>
 
 <p>&nbsp; &nbsp; Depois de montar conforme o esquema vamos a programa&ccedil;&atilde;o, copie e cole o c&oacute;digo abaixo para a IDE do seu Arduino e logo em seguida fa&ccedil;a o upload do programa.</p>
